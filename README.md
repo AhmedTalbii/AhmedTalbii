@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Talbi</h1>
 <h3 align="center">Hello! I'm Ahmed Talbi, a passionate developer with a love for learning and building amazing projects. Welcome to my portfolio! 🚀</h3>
 
----
 
 ## 📊 GitHub Stats
 ![Ahmed Talbi GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedTalbii&show_icons=true&theme=radical)
@@ -10,7 +9,7 @@
 
 ---
 
-<h3 align="left">Connect with me :</h3>
+<h3 align="left">More :</h3>
 <p align="center">
   <a href="mailto:ahmedtalbi459@gmail.com">📧 ahmedtalbi459@gmail.com</a>
 </p>
