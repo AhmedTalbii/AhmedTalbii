@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ahmed Talbi</h1>
 <h3 align="center">Hello! I'm Ahmed Talbi, a passionate developer with a love for learning and building amazing projects. Welcome to my portfolio! 🚀</h3>
 
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/AhmedTalbii/repository)](https://github.com/AhmedTalbii/repository/commits)
-[![GitHub top language](https://img.shields.io/github/languages/top/AhmedTalbii/repository)](https://github.com/AhmedTalbii/repository)
-[![GitHub languages count](https://img.shields.io/github/languages/count/AhmedTalbii/repository)](https://github.com/AhmedTalbii/repository)
+## 📊 GitHub Stats
+![Ahmed Talbi GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedTalbi&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedTalbi&layout=compact&theme=radical)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
