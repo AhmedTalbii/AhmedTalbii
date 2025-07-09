@@ -35,4 +35,34 @@
 
 <br/>
 
+## 📫 Contact Me
+
+<div align="center">
+  <div style="display: flex; gap: 0.5rem; align-items: center;">
+    <a href="https://leetcode.com/u/ahmedtalbii" target="_blank" rel="noopener noreferrer">
+      <img
+        src="https://img.shields.io/badge/-LeetCode-333?style=for-the-badge&logo=leetcode&logoColor=FFA116"
+        alt="LeetCode"
+        height="28"
+      />
+    </a>
+    <a href="https://www.linkedin.com/in/ahmed-talbi-9a8607269" target="_blank" rel="noopener noreferrer">
+      <img
+        src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        alt="LinkedIn"
+        height="28"
+      />
+    </a>
+    <a href="mailto:ahmedtalbi459@gmail.com">
+      <img
+        src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+        alt="Gmail"
+        height="28"
+      />
+    </a>
+
+  </div>
+</div>
+
+
 <img src="https://camo.githubusercontent.com/d29e12fc9dbe987a57f309d86d9b8f81b45c7d8e7a09d5217464f8893e8dc2a7/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302673656374696f6e3d666f6f746572" width="100%" />
