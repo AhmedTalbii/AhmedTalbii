@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Talbi</h1>
 
-<br/>
-
 <h3 align="center">I craft code 💻 and bring ideas to life 🚀. I love diving into innovative projects 🔧 and pushing boundaries with creative solutions 💡. Constantly learning and building things that make an impact.</h3>
-
-<br/>
-
----
-
-<br/>
 
 ## 📊 GitHub Stats :
 
